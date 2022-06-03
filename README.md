@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The purpose of this analysis is to provide visuals that show recent earthquakes around the world and their corresponding magnitudes. These maps have the option to toggle different layer views, earthquake data, and fault lines. 
+The purpose of this analysis is to provide the user with visuals that show recent earthquakes around the world and their corresponding magnitudes. These maps have the option to toggle different layer views, earthquake data, and fault lines, and anyone who uses them can easily filter between visuals to find the map that meets their needs. 
 
 <img width="1510" alt="Screen Shot 2022-06-03 at 4 50 52 AM" src="https://user-images.githubusercontent.com/99847786/171822072-32087eb1-afea-46d4-ba53-483f239b4436.png">
 
